@@ -1,9 +1,9 @@
-.lead-subtitle {
-    width: 640px;
-    height: 72px;
-    margin: 32px auto 64px;
+.lead__subtitle {
+    max-width: 640px;
     font-weight: 400;
     font-size: 30px;
     line-height: 36px;
+    display: flex;
     text-align: center;
+    margin: 0 auto 64px;
 }

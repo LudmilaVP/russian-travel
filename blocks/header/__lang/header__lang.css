@@ -1,6 +1,5 @@
-.header-lang {
-    margin: 0;
+.header__lang {
     padding: 0;
-    top: 46px;
-    right: 48px;
+    margin: 0;
+    display: flex;
 }

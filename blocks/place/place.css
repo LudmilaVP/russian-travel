@@ -1,0 +1,5 @@
+.place {
+    display: inline-grid;
+    grid-template-columns: minmax(460px, 460px) 1fr;
+    grid-template-rows: auto;
+}

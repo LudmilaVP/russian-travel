@@ -1,0 +1,8 @@
+.intro__phrase {
+    max-width: 690px;
+    margin: 0;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 18px;
+    list-style: none;
+}

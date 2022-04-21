@@ -2,3 +2,10 @@
     width: 100%;
     grid-row: 2/5;
 }
+
+@media screen and (max-width: 767px) {
+    .place__image {
+        grid-row: 3/4;
+        padding-bottom: 32px;
+    }
+}

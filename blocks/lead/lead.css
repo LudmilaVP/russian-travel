@@ -6,20 +6,19 @@
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
     .lead {
-        min-width: calc(100% - (48px + 48px));
+        max-width: calc(100% - (48px + 48px));
     }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     .lead {
         padding: 0 0 88px;
-        min-width: 768px;
     }
 }
 
 @media screen and (max-width: 767px) {
     .lead {
         padding: 0 0 64px;
-        max-width: 320px;
+        width: 100%;
     }
 }

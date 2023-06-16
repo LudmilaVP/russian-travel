@@ -17,6 +17,9 @@
 - Адаптивная верстка под размеры экранов 1280px, 1024px, 768px, 320px
 - БЭМ Nested
 
+## Планы по доработке:
+- Применение JavaScript.
+
 ## Ссылка на сайт:
 
 https://ludmilavp.github.io/russian-travel/

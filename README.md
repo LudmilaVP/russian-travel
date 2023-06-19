@@ -1,25 +1,25 @@
-# Название проекта: Путешествие по России 
+# Travel to Russia
 
-## Описание
+## Description
 
-Одностраничный сайт о путешествиях по России. Создан по макету Figma. Сайт адпативен и оптимизирован для просмотра на экранах от 320 пикселей.
+A one-page website about traveling in Russia. Created according to the Figma. The site is adpative and optimized for viewing on screens from 320 pixels.
 
-## Стек
+## Stack
 
 - HTML
 - CSS
 
-## Реализация
+## Implementation
 
 - Grid Layout
-- Flexbox-вёрстка
-- Медиазапросы
-- Адаптивная верстка под размеры экранов 1280px, 1024px, 768px, 320px
+- Flexbox-layout
+- Media queries
+- Adaptive layout for screen sizes 1280px, 1024px, 768px, 320px
 - БЭМ Nested
 
-## Планы по доработке:
-- Применение JavaScript.
+## Improvement plans:
+- Application of JavaScript.
 
-## Ссылка на сайт:
+## How to open project:
 
 https://ludmilavp.github.io/russian-travel/
